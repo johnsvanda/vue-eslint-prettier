@@ -1,2 +1,2 @@
-let ahoj = 'a'
+let ahoj = 'a';
 console.log('hello')
